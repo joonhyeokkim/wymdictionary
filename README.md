@@ -1,0 +1,2 @@
+# wymdictionary
+ AI Dictionary
